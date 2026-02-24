@@ -1,0 +1,9 @@
+remote_theme: cotes2020/jekyll-theme-chirpy
+title: Wojciech Kiełbowicz - Portfolio
+description: My Portfolio
+author: Wojciech Kiełbowicz
+
+lang: pl-PL
+timezone: Europe/Warsaw
+
+theme_mode: dark
